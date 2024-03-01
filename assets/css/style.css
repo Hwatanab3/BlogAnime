@@ -156,7 +156,7 @@ img {
 }
 
 .blog h2 {
-    font-size: 30px;
+    font-size: 18px;
     font-weight: 400;
 }
 
@@ -311,6 +311,10 @@ img {
 
     .hero-description {
         font-size: 2rem;
+    }
+
+    .blog h2 {
+        font-size: 50px;
     }
 
     .article {
