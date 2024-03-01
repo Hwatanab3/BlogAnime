@@ -156,7 +156,7 @@ img {
 }
 
 .blog h2 {
-    font-size: 55px;
+    font-size: 30px;
     font-weight: 400;
 }
 
@@ -211,6 +211,7 @@ img {
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
+
 }
 
 .wave {
